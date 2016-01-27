@@ -1,0 +1,10 @@
+{
+    "name": "is-generator-function",
+    "description": "Determine if a function is an ES6 generator function or not.",
+    "repos": "https://github.com/ljharb/is-generator-function.git",
+    "main": "index.js",
+    "tag": "master",
+    "reposType": "npm",
+    "dependencies": {},
+    "version": "1.0.3"
+}
